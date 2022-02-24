@@ -1,5 +1,22 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: yellowgreen;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darksalmon;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgb(34, 48, 48);
+    text-align: center;
+    padding: 1rem;
+}
+
+h2 {
+        color: antiquewhite;
+        text-align: center;
+        padding: 1rem;
 }
